@@ -29,7 +29,9 @@ Run `python3 run.py`
 
 ## Training Model 
 The training procedure of the model is in the `Training_Multi_Output_Network_with_Keras.ipynb` notebook and trained on GPU. The notebook is also available on Kaggle with all the outputs. 
-For viewing the notebook properly, easy forking and training:
+For viewing the notebook properly, accessing dataset, easy forking and training:
+
+https://www.kaggle.com/arnabs007/training-multi-output-model-with-keras
 
 
 
